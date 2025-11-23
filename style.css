@@ -111,3 +111,7 @@ nav ul li a:hover {
 h1, h2, p {
   text-align: center;
 }
+
+.officer-card:nth-child(7) {
+  grid-column: 2;
+}
